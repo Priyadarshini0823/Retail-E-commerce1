@@ -1,0 +1,11 @@
+{
+    "total_products": 5000,
+    "total_reviews": 100000,
+    "total_sellers": 500,
+    "total_sentiment_records": 100000,
+    "total_monthly_records": 60,
+    "total_customers": 36701,
+    "average_product_rating": 3.22,
+    "average_review_rating": 3.57,
+    "top_category": "Electronics"
+}

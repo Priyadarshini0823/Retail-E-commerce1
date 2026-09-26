@@ -1,0 +1,6 @@
+{
+    "model": "Item-Based Collaborative Filtering",
+    "similarity_algorithm": "Cosine Similarity",
+    "input": "Customer-Product Rating Matrix",
+    "output": "Personalized Product Recommendations"
+}

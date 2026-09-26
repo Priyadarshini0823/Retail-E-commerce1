@@ -1,0 +1,6 @@
+product_id,recommendation_score,category,price_usd,avg_rating,total_reviews,brand_tier
+P001511,0.42258718908378223,Electronics,238.23,3.24,47,mid
+P003741,0.422485397636061,Clothing,45.48,4.2,4,premium
+P004837,0.3862331818036421,Electronics,306.13,3.21,8,budget
+P000610,0.3616400679016741,Home & Kitchen,30.44,2.28,27,budget
+P001247,0.36096124971913884,Sports & Outdoors,27.2,3.77,13,mid
